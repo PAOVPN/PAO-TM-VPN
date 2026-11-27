@@ -2,8 +2,8 @@
   "version": 1,
   "servers": [
     {
-      "name": "Dtac Nopro - Jomvpn",
-      "config": "vless://689f6143-e9c8-4377-ca28-7c9295bc9933@157.85.103.29:80?path=%2F&security=none&encryption=none&host=app-jaidee-test.dtac.co.th&type=ws#Hello%20%F0%9F%92%95-7ngkajwx"
+      "name": "Dtac Nopro ",
+      "config": "vless://d195af2a-38a9-4134-b989-c509d7ddb647@157.85.103.29:443?type=ws&encryption=none&path=%2F&host=&security=tls&fp=android&alpn=h3%2Ch2%2Chttp%2F1.1&sni=dl.dir.freefiremobile.com&ech=AGz%2BDQBoAAAgACA13JbhaPFZUjW4KTcV98IeyL58NIO4zGZ5dJ%2BI3ZGMMwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABlkbC5kaXIuZnJlZWZpcmVtb2JpbGUuY29tAAA%3D&pcs=f43a6b0e1b688e7e06249fdca8c872ac87ea3da33c1908d75c0e7b90f93edab6#HiInternet-y1n4swlr"
     },
     {
       "name": "AIS 1 - Thailand",
