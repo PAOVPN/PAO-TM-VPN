@@ -2,8 +2,12 @@
   "version": 1,
   "servers": [
     {
-      "name": "SG 1 - Singapore",
-      "config": "vless://ဒီနေရာမှာ-ကိုယ့်VPSရဲ့-Link-ထည့်ပါ"
+      "name": "Dtac Nopro - Jomvpn",
+      "config": "vless://689f6143-e9c8-4377-ca28-7c9295bc9933@157.85.103.29:80?path=%2F&security=none&encryption=none&host=app-jaidee-test.dtac.co.th&type=ws#Hello%20%F0%9F%92%95-7ngkajwx"
+    },
+    {
+      "name": "AIS 1 - Thailand",
+      "config": "vless://689f6143-e9c8-4377-ca28-7c9295bc9933@157.85.103.29:80?path=%2F&security=none&encryption=none&host=app-jaidee-test.dtac.co.th&type=ws#Hello%20%F0%9F%92%95-7ngkajwx"
     }
   ]
 }
