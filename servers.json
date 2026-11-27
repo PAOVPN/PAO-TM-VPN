@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "name": "SG 1 - Singapore",
+      "config": "vless://ဒီနေရာမှာ-ကိုယ့်VPSရဲ့-Link-ထည့်ပါ"
+    }
+  ]
+}
